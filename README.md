@@ -52,7 +52,7 @@ conda activate r-env
 ## 연락처
 📧 **Nayoung Ku**  
 📩 **nayoungku1@gmail.com**  
-📅 **January 31, 2025**  
+📅 **Last Updated: February 3, 2025**  
 
 ---
 
@@ -109,4 +109,4 @@ conda activate r-env
 ## Contact
 📧 **Nayoung Ku**  
 📩 **nayoungku1@gmail.com**  
-📅 **January 31, 2025**  
+📅 **Last updated: February 3, 2025**  
