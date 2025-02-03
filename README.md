@@ -13,7 +13,7 @@ R for Data Science (2nd edition) Practice in Korean &amp; English
     ├── 17-datetime.ipynb
     └── ...
 📂 pdf           # Notebook을 변환한 PDF 파일
-    ├── 10-EDA.pdf
+    ├── 10-EDA-presentation.pdf #이 파일만 PPT slide (개념 설명)
     ├── 16-Factors.pdf
     ├── 17-datetime.pdf
     └── ...
@@ -30,7 +30,7 @@ R for Data Science (2nd edition) Practice in Korean &amp; English
 
 ## 파일 설명
 - **Notebook (`.ipynb`)**: 발표자료 및 실습 코드가 포함된 Jupyter Notebook 파일
-- **PDF (`.pdf`)**: Notebook 파일을 PDF로 변환한 문서
+- **PDF (`.pdf`)**: Notebook 파일을 PDF로 변환한 문서. (보다 심도 있는 개념 설명이 필요한 경우, PPT 슬라이드인 `*-presentation.pdf` 형식 파일을 업로드함)
 - **R 코드 (`.r`)**: 해당 챕터 실습 코드 (영어 및 한국어 버전 제공)
 - **환경 설정 파일 (`environment.yml`)**: 실습 환경을 재현하기 위한 Conda 환경 설정 파일
 
@@ -70,7 +70,7 @@ Files are organized into folders: `notebook`, `pdf`, `r_english`, and `r_korean`
     ├── 17-datetime.ipynb
     └── ...
 📂 pdf           # Converted PDF files from Notebooks
-    ├── 10-EDA.pdf
+    ├── 10-EDA-presentation.pdf # Only this file is a PPT slide to explain the concepts
     ├── 16-Factors.pdf
     ├── 17-datetime.pdf
     └── ...
@@ -87,7 +87,7 @@ Files are organized into folders: `notebook`, `pdf`, `r_english`, and `r_korean`
 
 ## File Descriptions
 - **Notebook (`.ipynb`)**: Jupyter Notebook files with presentation content and practice code.
-- **PDF (`.pdf`)**: Converted PDF versions of the Notebooks.
+- **PDF (`.pdf`)**: Converted PDF versions of the Notebooks. If a deeper concept explanation is needed, `*-presentation.pdf` format files for the PPT slides are uploaded.
 - **R Code (`.r`)**: Practice code files (available in both English and Korean).
 - **Environment File (`environment.yml`)**: Conda environment configuration file to reproduce the working environment.
 
