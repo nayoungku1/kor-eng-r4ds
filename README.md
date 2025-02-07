@@ -32,7 +32,7 @@ R for Data Science (2nd edition) Practice in Korean &amp; English
 - **Notebook (`.ipynb`)**: 발표자료 및 실습 코드가 포함된 Jupyter Notebook 파일
 - **PDF (`.pdf`)**: Notebook 파일을 PDF로 변환한 문서 (보다 심도 있는 개념 설명이 필요한 경우, PPT 슬라이드인 `*-presentation.pdf` 형식 파일을 업로드함)
 - **R 코드 (`.r`)**: 해당 챕터 실습 코드 (영어 및 한국어 버전 제공)
-- **환경 설정 파일 (`environment.yml`)**: 실습 환경을 재현하기 위한 Conda 환경 설정 파일
+- **환경 설정 파일 (`environment.yaml`)**: 실습 환경을 재현하기 위한 Conda 환경 설정 파일
 
 ## 챕터 목록
 | 챕터 | 제목 |
@@ -45,7 +45,7 @@ R for Data Science (2nd edition) Practice in Korean &amp; English
 ## 환경 설정
 이 프로젝트의 실습 환경을 동일하게 설정하려면 `environment.yaml` 파일을 사용하여 Conda 환경을 생성할 수 있습니다.
 ```sh
-conda env create -f environment.yml
+conda env create -f environment.yaml
 conda activate r-env
 ```
 
@@ -89,7 +89,7 @@ Files are organized into folders: `notebook`, `pdf`, `r_english`, and `r_korean`
 - **Notebook (`.ipynb`)**: Jupyter Notebook files with presentation content and practice code.
 - **PDF (`.pdf`)**: Converted PDF versions of the Notebooks. If a deeper concept explanation is needed, `*-presentation.pdf` format files for the PPT slides are uploaded.
 - **R Code (`.r`)**: Practice code files (available in both English and Korean).
-- **Environment File (`environment.yml`)**: Conda environment configuration file to reproduce the working environment.
+- **Environment File (`environment.yaml`)**: Conda environment configuration file to reproduce the working environment.
 
 ## Chapter List
 | Chapter | Title |
@@ -100,9 +100,9 @@ Files are organized into folders: `notebook`, `pdf`, `r_english`, and `r_korean`
 | ...     | Additional Chapters   |
 
 ## Environment Setup
-To replicate the same working environment for this project, use the `environment.yml` file with Conda:
+To replicate the same working environment for this project, use the `environment.yaml` file with Conda:
 ```sh
-conda env create -f environment.yml
+conda env create -f environment.yaml
 conda activate r-env
 ```
 
