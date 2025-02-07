@@ -1,4 +1,4 @@
-# 📚 kor-eng-r4ds: Book Reading 발표자료 및 코드 공유
+# 📚 kor-eng-r4ds: R for Data Science 학습자료 및 코드 공유
 R for Data Science (2nd edition) Practice in Korean &amp; English
 
 ## 개요
